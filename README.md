@@ -20,7 +20,10 @@ Store your files privately with this app! You can upload new files of all sorts,
 
 ## Usage
 
-
+![image-1](https://github.com/osHamad/file-storage-app/assets/70293706/db1ebb13-af47-4a19-829a-20ec2917a612)
+![image-2](https://github.com/osHamad/file-storage-app/assets/70293706/523b249b-e521-4b42-8f40-be8437257c32)
+![image-3](https://github.com/osHamad/file-storage-app/assets/70293706/c2a8f13a-5f6e-4cef-b89a-20f360400418)
+![image-4](https://github.com/osHamad/file-storage-app/assets/70293706/fdf64a58-64f8-4caf-964b-db817410b514)
 
 ## Technologies Used
 - React
